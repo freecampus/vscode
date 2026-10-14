@@ -11,6 +11,6 @@ export default defineConfig({
   },
 
   integrations: [mdx()],
-  site: "https://EverVino.github.io",
-  base: "/fc-vscode",
+  site: "https://freecampus.org",
+  base: "/vscode",
 });
